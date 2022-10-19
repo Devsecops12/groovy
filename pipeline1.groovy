@@ -1,4 +1,4 @@
-## Created for checking build pipeline view ##
+
 
 
 job('pipe1') {
