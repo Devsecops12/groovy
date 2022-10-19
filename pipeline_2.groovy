@@ -1,7 +1,7 @@
 
 
 job('pipe2') {
-   triggers {
+ triggers {
     upstream('pipe1.','SUCCESS')
     }
     logRotator(10)
