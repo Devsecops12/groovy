@@ -1,4 +1,4 @@
-buildPipelineView('DSL_Pipeline') {
+buildPipelineView('DSL_Pipeline_test') {
     filterBuildQueue()
     filterExecutors()
     title('DSL_Pipeline')
