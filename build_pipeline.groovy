@@ -3,7 +3,7 @@ buildPipelineView('DSL_Pipeline') {
     filterExecutors()
     title('DSL_Pipeline')
     displayedBuilds(1)
-    selectedJob('seed')
+    selectedJob('pipe1')
     alwaysAllowManualTrigger()
     showPipelineParameters()
     refreshFrequency(60)
