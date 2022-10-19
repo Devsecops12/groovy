@@ -1,6 +1,6 @@
 
 
-job('pip2') {
+job('pipe2') {
    triggers {
     upstream('pipe1','SUCCESS')
     }
