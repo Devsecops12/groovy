@@ -2,7 +2,7 @@
 
 job('pipe2') {
    triggers {
-    upstream('pipe1','SUCCESS')
+    upstream('pipe1.','SUCCESS')
     }
     logRotator(10)
      
