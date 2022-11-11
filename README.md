@@ -1,6 +1,5 @@
 
-😀 sample emoji here
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/uilkmUoXoLU)
+[![sample video](https://images.pexels.com/photos/33044/sunflower-sun-summer-yellow.jpg)](https://youtu.be/uilkmUoXoLU)
 
-https://youtu.be/uilkmUoXoLU
+
